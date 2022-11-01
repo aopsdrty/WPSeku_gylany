@@ -1,0 +1,28 @@
+# WPSeku_gylany
+apt update 
+
+$ apt upgrade
+
+$ apt install git
+
+$ apt install python2
+
+$ apt install python
+
+$ git clone https://github.com/m4110k/WPSeku_gylany
+
+ cd WPSeku_gylany
+
+$ chmod +x *
+
+$ pip install -r requirements.txt
+
+تشغيلها:
+
+python wpseku_gylany.py
+
+استعمالها:
+
+$ python wpseku_gylany.py --url example
+
+مكان كلmه example ضع ر|بط الmوقع المراد فحصه
